@@ -1,0 +1,1 @@
+This repository is a collection of my solutions to the exercises and projects in the book Eloquent Javascript.
